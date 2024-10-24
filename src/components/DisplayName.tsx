@@ -1,4 +1,5 @@
 type props = {name:string, profession: string, age:number}
+
 const Display = ({name, profession, age}:props) => {
 
 
